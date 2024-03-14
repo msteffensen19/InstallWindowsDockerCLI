@@ -2,9 +2,8 @@
 Install Docker on Windows CLI without Docker for Windows app.
 
 
-This script installs Docker, docker-app and docker-compose on windows
-### WITHOUT
-installing the Windows Docker Desktop, which you might need to pay for.
+This script installs docker, docker-app and docker-compose on windows
+without installing the Windows Docker Desktop, which you might need to pay for.
 
 Just git clone this repo with:
 
@@ -12,7 +11,7 @@ Just git clone this repo with:
 git clone https://github.com/msteffensen19/InstallWindowsDockerCLI
 
 
-Which will place two files in your directory. Then, open Explorer and right-click
+Which will place two PowerShell files in your directory. Then, open Explorer and right-click
 
 the file InstallWindowsDockerCLI.ps1 and select Run as Administrator
 
