@@ -30,7 +30,7 @@ The versions that are installed are editable variables in the .ps1 file.
 - docker-compose       v0.6.0
 
 
-This script make use of Microsoft utility scripts from:
+This script makes use of Microsoft utility scripts from:
 
 https://github.com/microsoft/Windows-Containers/tree/Main/helpful_tools/Install-DockerCE
 
