@@ -4,7 +4,7 @@
 
 This PowerShell script installs docker, docker-app and docker-compose on Windows 
 
-without installing the Docker Desktop, which you might need to pay for.
+without installing the Docker Desktop, which you might otherwise need to pay for.
 
 
 
