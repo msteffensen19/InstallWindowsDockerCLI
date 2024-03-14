@@ -30,3 +30,8 @@ Defaults are:
 - docker-app                v2.23.3
 
 - docker-compose       v0.6.0
+
+
+This script make use of Microsoft's utility scripts from:
+
+https://github.com/microsoft/Windows-Containers/tree/Main/helpful_tools/Install-DockerCE
