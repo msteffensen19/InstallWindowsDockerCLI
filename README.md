@@ -33,11 +33,17 @@ The versions that are installed are editable variables in the .ps1 file.
 This script make use of Microsoft utility scripts from:
 
 https://github.com/microsoft/Windows-Containers/tree/Main/helpful_tools/Install-DockerCE
+
 Docker versions can be found at:
+
 https://docs.docker.com/engine/release-notes/
+
 Docker-Compose versions can be found at:
+
 https://docs.docker.com/compose/release-notes/
+
 Docker-App versions can be found at:
+
 https://github.com/docker/app/releases
 
 
