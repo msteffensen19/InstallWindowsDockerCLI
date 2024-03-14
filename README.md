@@ -1,5 +1,5 @@
 # InstallWindowsDockerCLI
-Install Docker on Windows CLI without Docker for Windows app.
+##### Install Docker on Windows CLI without Docker for Windows app.
 
 
 This script installs docker, docker-app and docker-compose on windows without
@@ -11,7 +11,7 @@ A required REBOOT will occur after registry changes that allow containerization.
 On a Windows machine, open a CMD windows and run this command:
 
 
-git clone https://github.com/msteffensen19/InstallWindowsDockerCLI.git
+    git clone https://github.com/msteffensen19/InstallWindowsDockerCLI.git
 
 
 This will place two PowerShell files in your directory. Open Explorer and right-click
