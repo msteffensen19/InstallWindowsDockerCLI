@@ -1,6 +1,6 @@
 param($Step="A")
 
-$DockerCLIVersion = "24.07"
+$DockerCLIVersion = "24.0.7"
 $DockerComposeVersion = "v2.23.3"
 $DockerAppVersion = "v0.6.0"
 
