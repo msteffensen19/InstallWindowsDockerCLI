@@ -2,7 +2,7 @@
 
 ### Install Docker CLI on Windows without Docker Desktop
 
-This script installs docker, docker-app and docker-compose on Windows 
+This PowerShell script installs docker, docker-app and docker-compose on Windows 
 
 without installing the Docker Desktop, which you might need to pay for.
 
