@@ -21,9 +21,7 @@ Open Windows Explorer and right-click the file InstallWindowsDockerCLI.ps1 and
 select Run with PowerShell.
 
 
-The versions that are installed are editable variables in the .ps1 file. 
-
-Defaults are:
+The versions that are installed are editable variables in the .ps1 file.
 
 - docker                        24.0.7
 
