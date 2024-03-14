@@ -1,6 +1,6 @@
 # InstallWindowsDockerCLI
 
-### Install Docker on Windows CLI without Docker Desktop
+### Install Docker CLI on Windows without Docker Desktop
 
 This script installs docker, docker-app and docker-compose on Windows 
 
