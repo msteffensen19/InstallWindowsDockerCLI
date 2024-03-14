@@ -5,7 +5,7 @@ $DockerComposeVersion = "v2.23.3"
 $DockerAppVersion = "v0.6.0"
 
 # -------------------------------------
-# Imports
+# Imports - requires functions.ps1 file
 # -------------------------------------
 $script = $myInvocation.MyCommand.Definition
 $scriptPath = Split-Path -parent $script
