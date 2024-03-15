@@ -51,11 +51,11 @@ if (Should-Run-Step "B")
 	cd C:\
  	New-Item -ItemType Directory -Path $Env:ProgramFiles\Docker
 
-        # Using docker-compose
+        # Installing docker-compose
 
         Start-BitsTransfer -Source "https://github.com/docker/compose/releases/download/$DockerComposeVersion/docker-compose-windows-x86_64.exe" -Destination $Env:ProgramFiles\Docker\docker-compose.exe
         
-        # Using docker-app v0.6.0
+        # Installing docker-app v0.6.0
 
         Start-BitsTransfer -Source "https://github.com/docker/app/releases/download/$DockerAppVersion/docker-app-windows.tar.gz" -Destination $Env:ProgramFiles\Docker\docker-app-windows.tar.gz
         tar xvzf $Env:ProgramFiles\Docker\docker-app-windows.tar.gz -C $Env:ProgramFiles\Docker
