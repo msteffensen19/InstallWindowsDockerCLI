@@ -10,7 +10,7 @@ without installing the Docker Desktop, which you might otherwise need to pay for
 
 A required REBOOT will occur after registry changes that allow containerization.
 
-The installation will then continue and install docker, docker-app and docker-compose
+The installation will then continue and install docker, docker-app and docker-compose.
 
 On a Windows machine, open a CMD window and run this command:
 
